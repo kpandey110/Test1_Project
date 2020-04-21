@@ -17,6 +17,7 @@ public class Github_Project {
 		}
 		for(int i=0;i<=arr.length-1;i++)
 		{
+			System.out.println(error)
 			System.out.println("element in array :- "+arr[i]);
 		}
 		
